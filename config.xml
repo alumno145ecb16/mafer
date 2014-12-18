@@ -10,7 +10,7 @@
     <name>Fernanda</name>
 
     <description>
-        ...
+        Aplicación para Mafer.
     </description>
 
     <preference name="phonegap-version" value="3.1.0" />
@@ -19,8 +19,8 @@
         Jonathan David López García
     </author>
 	
-
+        <gap:plugin name="org.apache.cordova.device" version="0.2.12" />
 		<gap:plugin name="org.apache.cordova.vibration" version="0.3.0" />
-<gap:plugin name="org.apache.cordova.dialogs" version="0.2.6" />
+        <gap:plugin name="org.apache.cordova.dialogs" version="0.2.6" />
 
 </widget>
